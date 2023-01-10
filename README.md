@@ -6,7 +6,7 @@ express 用于替换原生的 http 功能
 
 nodemon xxx.js  // nodemon router-demo.js
 
-# 上传本地代码到github
+### 上传本地代码到github
 
 image.png
 
@@ -20,11 +20,11 @@ git branch -M master
 
 git push -u origin master
 
-# 克隆代码
+### 克隆代码
 
 git clone name
 
-# 创建自己的分支
+### 创建自己的分支
 
 git checkout master
 
@@ -38,7 +38,7 @@ git branch --set-upstream-to=origin/name // 让本地分支和远程分支建立
 
 git push origin --delete name 删除远程分支
 
-# 更新分支
+### 更新分支
 
 git checkout master
 
